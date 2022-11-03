@@ -1,0 +1,32 @@
+<resources>
+    <!--Splash strings -->
+    <string name="app_name">MyMoviesListApp</string>
+    <!--activity_main strings-->
+    <string name="noMoviesAddedYet">There is any movie added yet!</string>
+    <!--activity_insert strings and activity_edit strings-->
+    <string name="movieName">Movie Name</string>
+    <string name="streamingPlatform">Streaming platform</string>
+    <string name="genre">Genre</string>
+    <string name="score">Score</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnUpdate">Update</string>
+    <integer name="numStars">5</integer>
+    <dimen name="rating" format="float">0.0</dimen>
+    <dimen name="stepSizeRating" format="float">1.0</dimen>
+    <string name="descriptionGenre">List options button to select movie genre</string>
+    <!--InsertActivity strings-->
+    <string name="errorEmptyMsg">This can be null</string>
+    <string name="pleaseFillEverything">Please fill everything</string>
+    <string name="pleaseSelectGenre">Please select a genre everything</string>
+    <string name="pleaseRate">Please rate the movie</string>
+    <string name="movieSavedSuccess">Movie saved successfully</string>
+    <string name="errorMovieSaved">Error saving movie</string>
+    <!--activity_details strings and activity_edit strings-->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <!--DetailsActivity strings-->
+    <string name="alertDeleteMsg">Are you sure that you want to delete %1$s movie?</string>
+    <string name="alertTitle">Confirm</string>
+    <string name="alertAccept">Accept</string>
+    <string name="alertCancel">Cancel</string>
+</resources>
